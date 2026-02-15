@@ -31,3 +31,7 @@ requests==2.31.0
 # pytest==8.0.0
 # black==24.1.1
 # flake8==7.0.0
+
+# UI & Dashboard
+streamlit==1.31.0
+pandas==2.2.0
